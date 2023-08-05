@@ -1,5 +1,12 @@
-button {
-    background-color: aqua;
+.btn {
     padding: 1rem 3rem;
-    border-radius: 100%;
+    border-radius: 10%;
+    background-color: aqua;
+
+}
+
+.btn1 {
+    padding: 1rem 3rem;
+    border-radius: 10%;
+    background-color: aqua;
 }
